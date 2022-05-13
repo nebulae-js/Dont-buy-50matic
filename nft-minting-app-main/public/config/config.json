@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3C754dB1BDd06A35Ae96Db3dEc30a8570327d0c8",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3C754dB1BDd06A35Ae96Db3dEc30a8570327d0c8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DON'T BUY Don't buy",
+  "SYMBOL": "DB",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 3777176,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dontbuydontbuy",
+  "SHOW_BACKGROUND": true
+}
